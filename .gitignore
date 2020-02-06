@@ -6,7 +6,7 @@
 /wp-content/plugins/gravi*
 /wp-content/plugins/quf*
 /wp-content/plugins/wc*
-/wp-content/themes/Divi
+/wp-content/themes/Divi/
 SBA.sub*
 *.code-work*
 phpinfo.php
