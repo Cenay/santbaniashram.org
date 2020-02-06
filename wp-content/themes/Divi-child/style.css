@@ -1,0 +1,97 @@
+/*
+Theme Name: Sant Bani Theme
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Template: Divi
+Author: Blast My Biz
+Author URI: http://www.blastmybiz.com
+Description: This theme has been designed for Sant Bani Ashram.
+Version: 1.0.00.1489864453
+Updated: 2017-03-18 19:14:13
+
+*/
+
+@font-face {
+	font-family: 'Gazen';
+	src: url('../webfonts/Gazen/GAZEN___.eot');
+	src: url('../webfonts/Gazen/GAZEN___.eot?#iefix') format('embedded-opentype'),
+	url('../webfonts/Gazen/GAZEN___.woff') format('woff'),
+	url('../webfonts/Gazen/GAZEN___.ttf') format('truetype'),
+	url('../webfonts/Gazen/GAZEN___.svg') format('svg');
+	}
+
+body {
+	margin: 0;
+	background-color: #CEE7FF;
+	}
+
+#nav {
+	text-align: center;
+	padding-top: 3px;
+	width: 95%;
+	min-width: 700px;
+   	max-width: 1000px;
+	height:33px;
+	background-color:#333;
+    	transform: translateX(-50%);
+	border: 1px solid #000;
+	}
+	
+a:link {text-decoration: none;color: #000066;}
+a:visited {text-decoration: none;color: #0021fa;}
+a:hover {text-decoration: none;color: #0000cc;}
+a:active {text-decoration: none;color: #0CF;}
+
+a.menu {color:#FFFFFF;}
+a.menu:link  {text-decoration: none; color:#FFFFFF;}
+a.menu:visited {text-decoration: none; color:#FFFFFF;}
+a.menu:hover {text-decoration: none; color:#FFFF00;}
+a.menu:active {text-decoration: none; color: #C93;}
+
+#home-main {padding: 0; margin: 0;}
+
+#main h1 {
+	font-family: 'Cinzel', serif;
+	font-size: 40px;
+	color: #4B4BD2 !important;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	}	
+
+#main h2 {
+	font-family: 'Cinzel', serif;
+	font-size: 20px;
+	color: #333 !important;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	}
+	
+
+#satsangs {    
+	width: 800px;
+	height: 1400px;
+	margin: 0px auto;
+	margin-top: 35px;
+	margin-bottom: 15px;
+	text-align:center;
+	border: 1px solid #666;
+	}
+
+#satsangs2 {    
+	width: 800px;
+	height: 1350px;
+	margin: 0px auto;
+	margin-top: 95px;
+	margin-bottom: 15px;
+	text-align:center;
+	border: 1px solid #666;
+	}
+
+#home-gallery {
+	margin-right: auto;
+	margin-left: auto;
+	width: 350px; 
+	height: 442px;
+}
+
